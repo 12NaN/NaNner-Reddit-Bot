@@ -1,0 +1,5 @@
+c_id = ''
+c_secret = ''
+username = ''
+password = ''
+user_a = ''
